@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Automation Suite">
+    <test name="Calculator Tests">
+        <classes>
+            <class name="com.trysol.tests.CalculatorTests"/>
+        </classes>
+    </test>
+</suite>
